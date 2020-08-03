@@ -11,17 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b927968-f8c4-489b-b12d-a8868c6337bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/dev/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/dev/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/help/help.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/help/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/info/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/info/ping.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.example.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596451220634</updated>
-      <workItem from="1596451222144" duration="6990000" />
+      <workItem from="1596451222144" duration="7187000" />
     </task>
     <servers />
   </component>
