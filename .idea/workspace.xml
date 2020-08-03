@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b927968-f8c4-489b-b12d-a8868c6337bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/dev/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/dev/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/help/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/info/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/info/ping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1faLNzMqW0AQYcJT97Eu1uR6cRR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\kimchi-bot\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b927968-f8c4-489b-b12d-a8868c6337bc" name="Default Changelist" comment="" />
+      <created>1596451220634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596451220634</updated>
+      <workItem from="1596451222144" duration="6990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4530" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596452985649">
+      <screen x="3840" y="40" width="1920" height="1040" />
+    </state>
+    <state x="4530" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.3840.2120/3840.40.1920.1040@3840.40.1920.1040" timestamp="1596452985649" />
+    <state x="4301" y="204" key="SettingsEditor" timestamp="1596455181290">
+      <screen x="3840" y="40" width="1920" height="1040" />
+    </state>
+    <state x="4301" y="204" key="SettingsEditor/0.40.3840.2120/3840.40.1920.1040@3840.40.1920.1040" timestamp="1596455181290" />
+  </component>
+</project>

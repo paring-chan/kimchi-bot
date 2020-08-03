@@ -1,0 +1,13 @@
+{
+  "name": "kimchi-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/parangee/kimchi-bot",
+  "author": "parangee <parangee9706@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "inko": "^1.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
